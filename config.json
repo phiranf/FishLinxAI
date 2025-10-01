@@ -1,0 +1,13 @@
+{
+    "fishing_key": "f",
+    "lure_key": "g",
+    "lure_duration_minutes": 10,
+    "confidence_threshold": 0.5,
+    "decibel_threshold": -45.0,
+    "cast_duration_sec": 30,
+    "viz_window_monitor": 2,
+    "viz_window_width": 1200,
+    "viz_window_height": 800,
+    "viz_show_fps": true,
+    "viz_show_audio_graph": true
+}

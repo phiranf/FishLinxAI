@@ -1,5 +1,7 @@
 # WoW_fish_YOLO
 
+Rewrite of https://github.com/Hester60/WoW_fish_YOLO with Claude Code
+
 WoW_fish_YOLO is an automated fishing bot for World of Warcraft utilizing a pre-trained YOLO model. This project is developed in Python with Ultralytics and has been trained on a dataset of 2000 screenshots from different regions of the game in the classic version.
 
 ## Features
